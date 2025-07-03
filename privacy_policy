@@ -1,0 +1,53 @@
+# Gizlilik Politikası / Privacy Policy
+
+**GunPlan** uygulaması kullanıcı verilerini toplamaz, işlemez veya üçüncü taraflarla paylaşmaz. Uygulamanın tüm verileri cihazınızda yerel olarak saklanır ve internet bağlantısı gerektirmez.
+
+## Verilerin Saklanması
+- Görevler, kategoriler, tarih/saat ve bildirim ayarları cihaz içi veri tabanında (Room) saklanır.
+- Uygulama çevrimdışıdır, veriler sunucuya gönderilmez.
+
+## Bildirimler
+- Hatırlatıcılar Android işletim sistemi ve WorkManager aracılığıyla cihaz içinde zamanlanır.
+- Bildirimler için herhangi bir üçüncü taraf hizmeti (Firebase, OneSignal vb.) **kullanılmaz**.
+- Bildirimlerde sadece görev başlığı ve zamanı gösterilir, kişisel veri içermez.
+
+## Tema ve Kişisel Ayarlar
+- Tema tercihiniz ve adınız sadece cihazınızda (DataStore) tutulur.
+- Uygulama dışına aktarılmaz.
+
+## Güvenlik
+- Verilerinize yalnızca cihaz sahibi erişebilir.
+- Uygulama herhangi bir bulut yedekleme veya sunucu bağlantısı içermez.
+
+## Güncellemeler
+- Uygulama geliştikçe gizlilik politikası da güncellenebilir. Değişiklikler bu sayfada belirtilecektir.
+
+Son güncelleme tarihi: **03.07.2025**
+
+---
+
+# Privacy Policy
+
+GunPlan does not collect, process, or share any user data. All information is stored locally on your device and the app works entirely offline.
+
+## Data Storage
+- Tasks, categories, date/time, and notification settings are saved using a local database (Room).
+- The app does not connect to any servers or store data externally.
+
+## Notifications
+- Reminders are scheduled locally using Android's WorkManager.
+- No third-party notification services (e.g. Firebase, OneSignal) are used.
+- Notifications only show task title and time, no personal information.
+
+## Theme and Profile
+- Your selected theme and name are saved only on your device (via DataStore).
+- These settings are never uploaded or shared.
+
+## Security
+- Only the device owner has access to the app data.
+- No cloud syncing or internet communication is used.
+
+## Updates
+- This policy may be updated as the app evolves. Changes will be posted here.
+
+Last updated: **July 3, 2025**
